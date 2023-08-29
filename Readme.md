@@ -3,7 +3,7 @@
 This project demonstrates how to pull in data asynchronously and display map elements with a mapping library. Once executed, map pins will jump from one stop to the next from MIT to Harvard.
 
 ## How to Run:
-Download the index.html file and open it within a browser. Click on the button on the top left with the text Show stops between MIT and Harvard.
+Download the files making sure they are in the same folder, they have the same file names and open index.html within a browser. Click on the button on the top left with the text Show stops between MIT and Harvard.
 
 ## Roadmap of future improvements:
 Future improvements would be to have the pin start over when clicking the button again and add another button that reverses the route so it would be bus stops from Harvard to MIT.
